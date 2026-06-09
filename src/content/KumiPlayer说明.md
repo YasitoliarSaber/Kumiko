@@ -8,6 +8,7 @@ tags:
 category: 文章示例
 draft: false
 ---
+
 # KumiPlayer
 
 本地影视海报墙播放器。从 115 网盘目录树自动生成 strm 文件，自动刮削 TMDB/Bangumi 元数据和海报，通过 Web UI 海报墙浏览，调用 mpv 播放网盘视频。
